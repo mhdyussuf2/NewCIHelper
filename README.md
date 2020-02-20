@@ -1,5 +1,5 @@
 # NewCIHelper
 
-# Hii Coder!
+Hii Coder!
 
 I am beginner here, please guide me ...
